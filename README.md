@@ -1,9 +1,6 @@
 
-# Artificial Intelligence for Trading Nanodegree
-
-## Alpha Research and Factor Modelling
-
-## Project: Multi-Factor Model
+# AIQTND-T1P4-Multi-factor-Model
+Udacity Artificial Intelligence for Trading Nanodegre - Term 1 - Project 4 - Multi-factor Model
 
 ## Table of Contents
 
